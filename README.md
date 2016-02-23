@@ -1,4 +1,6 @@
 Hook PasswordChangeNotify
 ====================
+Stealing passwords every time they change
 
-Miscellaneous projects related to attacking Windows.
+Usage:
+PowerShell.exe -ExecutionPolicy Bypass -File HookPasswordChangeNotify.ps1
